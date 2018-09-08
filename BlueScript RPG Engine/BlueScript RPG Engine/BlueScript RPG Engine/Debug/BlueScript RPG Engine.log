@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/9/8 21:57:06。
+     1>项目“K:\C Program\Projects\BlueScript RPG Engine\BlueScript RPG Engine\BlueScript RPG Engine\BlueScript RPG Engine.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         K:\PROXYEE\Visual Studio 2013 Ultimate\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>k:\c program\projects\bluescript rpg engine\bluescript rpg engine\bluescript rpg engine\form.h(63): warning C4018: “<”: 有符号/无符号不匹配
+     1>k:\c program\projects\bluescript rpg engine\bluescript rpg engine\bluescript rpg engine\form.h(67): warning C4018: “<=”: 有符号/无符号不匹配
+       Link:
+         K:\PROXYEE\Visual Studio 2013 Ultimate\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"K:\C Program\Projects\BlueScript RPG Engine\BlueScript RPG Engine\Debug\BlueScript RPG Engine.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"K:\C Program\Projects\BlueScript RPG Engine\BlueScript RPG Engine\Debug\BlueScript RPG Engine.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\C Program\Projects\BlueScript RPG Engine\BlueScript RPG Engine\Debug\BlueScript RPG Engine.lib" /MACHINE:X86 Debug\main.obj
+         BlueScript RPG Engine.vcxproj -> K:\C Program\Projects\BlueScript RPG Engine\BlueScript RPG Engine\Debug\BlueScript RPG Engine.exe
+     1>已完成生成项目“K:\C Program\Projects\BlueScript RPG Engine\BlueScript RPG Engine\BlueScript RPG Engine\BlueScript RPG Engine.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.26
